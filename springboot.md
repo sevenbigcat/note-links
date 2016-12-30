@@ -1,5 +1,7 @@
 # Microservices
 ## SpringBoot
+### ConfigurationProperties
+[Spring Boot Inject Map From Application Yml](http://stackoverflow.com/questions/24917194/spring-boot-inject-map-from-application-yml)
 
 ###24.4 Profile-specific properties
 In addition to application.properties files, profile-specific properties can also be defined using the naming convention application-{profile}.properties. The Environment has a set of default profiles (by default [default]) which are used if no active profiles are set (i.e. if no profiles are explicitly activated then properties from application-default.properties are loaded).
