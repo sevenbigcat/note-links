@@ -9,6 +9,7 @@
 
 ## 
 Sensors -> Raw Data -> Preprocessing -> Segmentation -> Feature Extraction -> Feature Selection -> Classification -> Recognized Pattern
+[Pages for log analysis](http://uu.diva-portal.org/smash/get/diva2:667650/FULLTEXT01.pdf)
 
 [Cassandra](cassandra.md) / [HBase](hbase.md)
 # Microservice
