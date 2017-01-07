@@ -7,6 +7,9 @@
 ### How to parse XML/JSON elements in log files.
 ### How to parse different patterns out with less effort.
 
+## 
+Sensors -> Raw Data -> Preprocessing -> Segmentation -> Feature Extraction -> Feature Selection -> Classification -> Recognized Pattern
+
 [Cassandra](cassandra.md) / [HBase](hbase.md)
 # Microservice
 [SpringBoot](springboot.md)
