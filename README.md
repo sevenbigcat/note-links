@@ -2,6 +2,10 @@
 [Hadoop](notes.md)
 
 [ElasticStach](elastic.md) / [Splunk](splunk.md)
+## Open source tools
+[top 9](http://www.enterpriseappstoday.com/data-management/9-useful-open-source-big-data-tools.html)
+[top n 2015](http://www.infoworld.com/article/2982429/open-source-tools/bossie-awards-2015-the-best-open-source-big-data-tools.html#slide6)
+
 
 ## Questions
 ### How to parse XML/JSON elements in log files.
