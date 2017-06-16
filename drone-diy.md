@@ -1,0 +1,5 @@
+[DIY Smart Follow Me Drone With Camera (Arduino Based)](http://www.instructables.com/id/DIY-Follow-Me-Drone-With-Camera-Arduino-Based/)
+[DIY Drones](http://diydrones.com/)
+[HOW TO BUILD A DRONE – PART 1: UNDERSTANDING BASIC DRONE TERMINOLOGY](http://beginnerflyer.com/build-a-drone/)
+[DIY Drones: Build your own drone - Reddit](https://www.reddit.com/r/diydrones/)
+[DIY Drones](http://www.instructables.com/id/DIY-Drones/)
